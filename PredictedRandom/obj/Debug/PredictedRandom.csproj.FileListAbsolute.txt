@@ -1,0 +1,6 @@
+/Users/antonsiadun/Projects/PredictedRandom/PredictedRandom/obj/Debug/PredictedRandom.csproj.AssemblyReference.cache
+/Users/antonsiadun/Projects/PredictedRandom/PredictedRandom/obj/Debug/PredictedRandom.csproj.CoreCompileInputs.cache
+/Users/antonsiadun/Projects/PredictedRandom/PredictedRandom/bin/Debug/PredictedRandom.dll
+/Users/antonsiadun/Projects/PredictedRandom/PredictedRandom/bin/Debug/PredictedRandom.pdb
+/Users/antonsiadun/Projects/PredictedRandom/PredictedRandom/obj/Debug/PredictedRandom.dll
+/Users/antonsiadun/Projects/PredictedRandom/PredictedRandom/obj/Debug/PredictedRandom.pdb
